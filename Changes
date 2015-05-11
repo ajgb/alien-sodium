@@ -1,6 +1,7 @@
 Revision history for Perl extension Alien::OTR.
 
 {{$NEXT}}
+    Upgrade library to version 1.0.3, released on May 9, 2015.
 
 0.01   2014-02-04 00:28:01
 	Initial version.
