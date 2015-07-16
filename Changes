@@ -1,6 +1,8 @@
 Revision history for Perl extension Alien::Sodium.
 
 {{$NEXT}}
+
+1.0.3.1 2015-07-16 22:34:27
     [gh#1] use correct pkg-config name for libsodium
         by Graham Ollis
     [gh#2] require libsodium 1.0.3
