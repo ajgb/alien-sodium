@@ -2,7 +2,7 @@ NAME
     Alien::Sodium - Install and make available libsodium library
 
 VERSION
-    version 1.0.3.1
+    version 1.0.5.0
 
 SYNOPSIS
         use Alien::Sodium;
@@ -11,8 +11,8 @@ SYNOPSIS
         my $libs = Alien::Sodium->libs;
 
 DESCRIPTION
-    Alien::Sodium installs the C library "libsodium" version 1.0.3 released
-    on May 9, 2015.
+    Alien::Sodium installs the C library "libsodium" version 1.0.5 released
+    on October 25, 2015.
 
 SEE ALSO
     *   libsodium <https://github.com/jedisct1/libsodium>
