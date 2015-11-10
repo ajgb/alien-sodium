@@ -19,8 +19,8 @@ __END__
     
 =head1 DESCRIPTION
 
-Alien::Sodium installs the C library C<libsodium> version 1.0.5 released on
-October 25, 2015.
+Alien::Sodium installs the C library C<libsodium> version 1.0.6 released on
+November 1, 2015.
 
 =head1 SEE ALSO
 
