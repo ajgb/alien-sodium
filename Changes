@@ -1,9 +1,10 @@
 Revision history for Perl extension Alien::Sodium.
 
 {{$NEXT}}
+    Upgrade library to version 1.0.7, released on Dec 9, 2015.
 
 1.0.6.0 2015-11-10 01:57:31
-    Upgrade library to version 1.0.5, released on Oct 25, 2015.
+    Upgrade library to version 1.0.6, released on Oct 25, 2015.
 
 1.0.3.1 2015-07-16 22:34:27
     [gh#1] use correct pkg-config name for libsodium
