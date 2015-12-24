@@ -2,7 +2,7 @@ NAME
     Alien::Sodium - Install and make available libsodium library
 
 VERSION
-    version 1.0.7.0
+    version 1.0.6.1
 
 SYNOPSIS
         use Alien::Sodium;
